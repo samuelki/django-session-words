@@ -1,0 +1,23 @@
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.small{
+    font-size: 14px;
+}
+
+.big{
+    font-size: 24px;
+}
+
+ul{
+    list-style: none;
+}
